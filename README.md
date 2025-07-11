@@ -123,7 +123,7 @@ Configure os parâmetros da ferramenta conforme a imagem do tutorial. Os princip
 
 * Desconecte o sensor da placa e da broca e retorne os terminais aos seus suportes com ímãs.
   <div style="text-align: center;">
-    <img src="Imagens/sensores-desconectados.png" alt="sensores-desconectados" style="max-width: 120px;">
+    <img src="Imagens/sensores-desconectados.jpg" alt="sensores-desconectados" style="max-width: 120px;">
   </div>
 
 **5.4. Aplicar a Correção (Warp)**
