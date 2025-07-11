@@ -64,7 +64,7 @@ Configure os parâmetros da ferramenta conforme a imagem do tutorial. Os princip
 1. Remova os terminais do sensor dos ímãs.  
 2. Toque um terminal no outro (preto e vermelho). A palavra "Sensor"
    <div style="text-align: center;">
-     <img src="Imagens/tocar-terminais.jng" alt="tocar-terminais" style="max-width: 200px;">
+     <img src="Imagens/tocar-terminais.jpg" alt="tocar-terminais" style="max-width: 200px;">
    </div>
 3. deve aparecer no canto inferior esquerdo do software.  
   <div style="text-align: center;">
